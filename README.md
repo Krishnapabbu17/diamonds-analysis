@@ -137,3 +137,7 @@ Machine Learning & Data Science Project
 ---
 
 ## Repository Structure
+- DataScienceProject.ipynb # Full analysis and modeling notebook
+- written_report.ipynb # Research-style written report
+- diamonds.csv # Dataset (not included if large)
+- README.md
